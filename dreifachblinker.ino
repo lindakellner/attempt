@@ -18,7 +18,6 @@ void setup() {
   pinMode(ledPin1, OUTPUT);
   pinMode(ledPin2, OUTPUT);
   pinMode(ledPin3, OUTPUT);
-  pinMode(taster, INPUT);
 }
 
   void loop() {
