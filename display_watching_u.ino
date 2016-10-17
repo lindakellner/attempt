@@ -25,7 +25,7 @@ lcd.setBacklight(HIGH);
 lcd.setCursor (0,0);
 
 lcd.setCursor(0,0);
-lcd.print("LCD over I2C");
+lcd.print("watching u since");
 lcd.setCursor(0,1);
 lcd.print("Millis:");
 lcd.setCursor(7,1);
